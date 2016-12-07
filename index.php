@@ -8,3 +8,5 @@ if ($test == 'test') {
 echo "<h1>Hello World</h1>";
 
 echo "Brasserie";
+
+echo "RDV pris";
